@@ -1,4 +1,4 @@
-"##Algoritma Genetika
+##Algoritma Genetika
 
 
-"
+
