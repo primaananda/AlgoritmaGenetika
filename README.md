@@ -1,1 +1,4 @@
-"# AlgoritmaGenetika" 
+"##Algoritma Genetika
+
+
+"
